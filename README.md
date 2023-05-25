@@ -22,5 +22,6 @@ Bankalar için alacak tahsilat şirketlerine yönelik bir program. Programın fi
 ![23](https://github.com/an90ass/Fatura-yonetimi-uygulamasi/assets/91754070/f9cf6abb-66c2-4c4d-a744-ff1d8c223983)
 ![24](https://github.com/an90ass/Fatura-yonetimi-uygulamasi/assets/91754070/7a4c0e46-8f71-4290-8d20-d68026149438)
 ![25](https://github.com/an90ass/Fatura-yonetimi-uygulamasi/assets/91754070/40ea5537-5739-40a6-82c8-d34d474362b6)
-![26](https://github.com/an90ass/Fatura-yonetimi-uygulamasi/assets/91754070/5f8a38b0-e![27](https://github.com/an90ass/Fatura-yonetimi-uygulamasi/assets/91754070/686e176c-02dd-4d0e-99ad-4aa22a054321)
-ef4-41ec-bacc-d1d3685f6e23)
+![26](https://github.com/an90ass/Fatura-yonetimi-uygulamasi/assets/91754070/19b74d84-1b47-4341-86ce-798765148954)
+![27](https://github.com/an90ass/Fatura-yonetimi-uygulamasi/assets/91754070/83577294-9401-40c9-b1fe-7002ede5317a)
+
