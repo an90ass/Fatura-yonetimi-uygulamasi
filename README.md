@@ -1,5 +1,5 @@
 # Fatura-yonetimi-uygulamasi
-Bankalar için alacak tahsilat şirketlerine yönelik bir program. Programın fikri her ay borçları tahsil edip müşterilere (bankalara) fatura göndermektir.Banka onayı ve kredi bana gönderildikten sonra ödemi durumu değiştiriyorum fatura ödenmemişten ödenmişe yada kısmen ödenmiş. Borç sistemini bankacılık sisteminden ayırarak tüm bankaların borclarını tek bir program altında toplamayı hedefleyen bu program faturaların daha hızlı hatırlanması ve tahsili için faydalı olacaktır.
+Bankalar için alacak tahsilat şirketlerine yönelik bir program. Programın fikri her ay borçları tahsil edip müşterilere (bankalara) fatura göndermektir.Banka onayı ve kredi bana gönderildikten sonra ödemi durumu değiştiriyorum fatura ödenmemişten ödenmişe yada kısmen ödenmiş. Borç sistemini bankacılık sisteminden ayırarak tüm bankaların borclarını tek bir program altında toplamayı hedefleyen bu program faturaların daha hızlı hatırlanması ve tahsili için faydalı olacaktır.Bu projede PHP programlama dili ve Laravel Framework 10 sürümünü kullanarak, Valex Dashboard kullanarak geliştirdim.
 ![Proje logosu](https://github.com/an90ass/Fatura-yonetimi-uygulamasi/assets/91754070/43c7a92d-5780-4614-b2d4-8d3722fad64f)
 
 
